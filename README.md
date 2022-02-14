@@ -1,0 +1,2 @@
+# Mysql-Workbench
+Alguns exercícios 
